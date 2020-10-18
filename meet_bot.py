@@ -124,7 +124,7 @@ class Meetbot:
                 except:
                     pass
 
-                if people_number <=1:
+                if people_number <=30:
                     break
         
                 else:
