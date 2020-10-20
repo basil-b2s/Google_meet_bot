@@ -111,14 +111,7 @@ class Meetbot:
                     people_number = int(people_number)                    
         
                 except:
-                    
-                    try:
-                        people_number = driver.find_element_by_class_name("rua5Nb").text
-                        people_number = int(people_number[1:-1])
-                        print(people_number)
-           
-                    except:
-                        pass
+                    pass
 
                 if people_number <=30:
                     break
