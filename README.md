@@ -8,3 +8,4 @@
  
  When you run the code, the program will ask you for the google mail id , password and the google meet link for the class. The program will automatically turn off the camera and mic and enter into the class. When the class finishes and the number of students in the class become less than 30 (for 60 students class), you will be automatically left from the class.
  
+#### Recommended Browser - Firefox
