@@ -1,8 +1,5 @@
 
-# google meet bot
-
-
-######################################################
+# google meet bot using python selenium
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -159,10 +156,6 @@ if __name__ == "__main__":
     voice("This session is over")
     print("This session is Over")
     
-
-    
-            
-
             
 
 #################################################################################
